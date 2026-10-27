@@ -5,6 +5,23 @@ comportamiento entre usuarios ocasionales y miembros anuales de
 Cyclistic, con el objetivo de generar recomendaciones para aumentar las
 membresías.
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Google-Data_Analytics-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google Data Analytics">
+  <img src="https://img.shields.io/badge/Data_Analysis-Case_Study-009688?style=for-the-badge&logo=databricks&logoColor=white" alt="Case Study">
+  <img src="https://img.shields.io/badge/Status-Completed-success?style=for-the-badge" alt="Status">
+</p>
+
+---
+
+## Índice de Contenidos
+- [Objetivo](#objetivo)
+- [Metodología](#metodología)
+- [Datos y Procesamiento](#datos-y-procesamiento)
+- [Resultados y Recomendaciones](#resultados-y-recomendaciones)
+- [Autor](#autor)
+
+---
+
 ## Objetivo
 
 Responder la pregunta de negocio:
@@ -63,3 +80,11 @@ La recomendación es medir el recorrido completo:
 **exposición → interacción → oferta → conversión → permanencia**
 
 antes de escalar una campaña.
+
+---
+
+## Autor
+
+Desarrollado por **José Aníbal Modad**  
+* **GitHub:** [@turkoModad](https://github.com/turkoModad)
+* **Enfoque:** Analítica de Datos, Ciclo de Análisis de Google, Business Intelligence y Estrategia de Negocio.
